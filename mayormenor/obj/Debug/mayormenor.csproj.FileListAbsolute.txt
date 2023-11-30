@@ -1,0 +1,14 @@
+C:\Users\juand\Desktop\Programas\mayormenor\mayormenor\bin\Debug\no.jpg
+C:\Users\juand\Desktop\Programas\mayormenor\mayormenor\bin\Debug\ok.jpg
+C:\Users\juand\Desktop\Programas\mayormenor\mayormenor\bin\Debug\mayormenor.exe.config
+C:\Users\juand\Desktop\Programas\mayormenor\mayormenor\bin\Debug\mayormenor.exe
+C:\Users\juand\Desktop\Programas\mayormenor\mayormenor\bin\Debug\mayormenor.pdb
+C:\Users\juand\Desktop\Programas\mayormenor\mayormenor\obj\Debug\mayormenor.csproj.AssemblyReference.cache
+C:\Users\juand\Desktop\Programas\mayormenor\mayormenor\obj\Debug\mayormenor.Form1.resources
+C:\Users\juand\Desktop\Programas\mayormenor\mayormenor\obj\Debug\mayormenor.Properties.Resources.resources
+C:\Users\juand\Desktop\Programas\mayormenor\mayormenor\obj\Debug\mayormenor.csproj.GenerateResource.cache
+C:\Users\juand\Desktop\Programas\mayormenor\mayormenor\obj\Debug\mayormenor.csproj.CoreCompileInputs.cache
+C:\Users\juand\Desktop\Programas\mayormenor\mayormenor\obj\Debug\mayormenor.exe
+C:\Users\juand\Desktop\Programas\mayormenor\mayormenor\obj\Debug\mayormenor.pdb
+C:\Users\juand\Desktop\Programas\mayormenor\mayormenor\bin\Debug\no.wav
+C:\Users\juand\Desktop\Programas\mayormenor\mayormenor\bin\Debug\ok.wav
